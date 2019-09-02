@@ -1,9 +1,9 @@
 {
-    "name": "airan/alioss-form",
+    "name": "nomedia/laravel_admin_alioss_file_images",
     "description": "laravel-admin扩展，web直传阿里OSS（file，image，editor）",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/airan/alioss-form",
+    "homepage": "https://github.com/nomedia/laravel_admin_alioss_file_images",
     "license": "MIT",
     "authors": [
         {
