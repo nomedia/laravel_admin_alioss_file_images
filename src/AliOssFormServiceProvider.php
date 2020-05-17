@@ -29,7 +29,7 @@ class AliOssFormServiceProvider extends ServiceProvider
         }
 
         Admin::booting(function () {
-            Form::extend('file', File::class);
+            Form::extend('oneFile', File::class);
             Form::extend('image', Image::class);
             Form::extend('editor', Editor::class);
         });
